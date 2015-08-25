@@ -1,0 +1,32 @@
+.jumbotron{
+    background-color: transparent;
+    text-align: center;
+}
+
+.inverse{
+    background-color: #333333;
+    color: #ffffff;
+    border: 0;
+}
+
+.fullwidth{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.mainrow{
+    margin-bottom: 60px;
+}
+
+#banner{
+    background: url('../img/medicinabanner.jpg') no-repeat center center;
+    background-size: cover;
+    height: 450px;
+}
+
+.biglink{
+    //color: #666666;
+    font-size: +1.2em;
+}
+
