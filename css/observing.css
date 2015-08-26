@@ -20,7 +20,8 @@
 }
 
 #banner{
-    background: url('../img/medicinabanner.jpg') no-repeat center center;
+    background: url('../img/medicinabanner.jpg') no-repeat bottom right;
+    //background: url('../img/dish-carousel-bn.jpg') no-repeat bottom right;
     background-size: cover;
     height: 450px;
 }
